@@ -1,1 +1,1 @@
-# Computa-o-Quantica
+# Quantum computing
